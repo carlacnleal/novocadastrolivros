@@ -1,0 +1,130 @@
+a {
+    text-align: center;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    background-color: beige;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+main {
+    flex: 1px;
+    background-color: white;
+    border-radius: 20px;
+}
+
+h1 {
+    background-color: cadetblue;
+    display: center;
+    font-size: 55px;
+    font-family: 'Arial Narrow';
+    border-radius:5px;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    padding: 1px;
+}
+
+h2 {
+    font-style: italic;
+}
+
+nav {
+    background-color:azure;
+    font-size: 20px;
+}
+
+footer {
+    background-color: azure;
+    font-size: 20px;
+    padding: 10px 0;
+    border-radius: 2px;
+}
+
+main p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: red;
+}
+
+main ul {
+    display: flex;
+    font-size: 20;
+    font-family: sans-serif;
+    font-style: normal;
+    align-items: center;
+    gap: 20px;
+}
+    
+.img1 {
+    text-align: center ;
+    position: relative;
+}
+
+.img1 p {
+   margin-top: 1px;
+}
+
+.img2 {
+    text-align: center ;
+    position: relative;
+}
+
+.img2 p {
+   margin-top: 4px;
+}
+
+.img3 {
+    text-align: center ;
+    position: relative;
+}
+
+.img3 p {
+   margin-top: 8px;
+}
+
+#tituloprincipal {
+    text-align: center;
+}
+
+table {
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+.dados1 {
+   margin-left: 30px;
+}
+
+.dados2 {
+   margin-left: 250px;
+}
+
+.dados3 {
+    margin-left: 300px;
+}
+
+td img {
+    width: 70px;
+}
+
+label {
+    color: blue;
+}
+
+textarea {
+    text-align: center;
+}
+
+button {
+    background-color: blue;
+    border-radius: 5px;
+}
+
+input {
+    font-family: Arial, Helvetica, sans-serif;
+}

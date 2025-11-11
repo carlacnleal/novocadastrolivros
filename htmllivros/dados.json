@@ -1,0 +1,20 @@
+[
+  {
+    "foto": "https://d1b6q258gtjyuy.cloudfront.net/Custom/Content/Products/07/49/0749_https-www-escala-com-br-a-metamorfose-franz-kafka-p2036-_z1_637957496052979369.jpg",
+    "autor": "Franz Kafka",
+    "titulo": "A Metamorfose",
+    "genero": "Ficção"
+  },
+  {
+    "foto": "https://m.media-amazon.com/images/I/61TaHURu27L._SL1000_.jpg",
+    "autor": "Clarice Lispector",
+    "titulo": "A Hora da Estrela",
+    "genero": "Romance"
+  },
+  {
+    "foto": "https://weltbild.scene7.com/asset/vgw/o-meu-pe-de-laranja-lima-50-anos-188722912.jpg",
+    "autor": "José Mauro de Vasconcelos",
+    "titulo": "Meu Pé de Laranja Lima",
+    "genero": "Drama"
+  }
+]
